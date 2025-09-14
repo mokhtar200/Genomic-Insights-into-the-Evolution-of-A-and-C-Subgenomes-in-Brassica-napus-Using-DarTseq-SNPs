@@ -1,12 +1,6 @@
 
 # ===============================================================================
 # Genomic Insights into the Evolution of A and C Subgenomes in Brassica napus
-# Using DarTseq SNPs - COMPLETE CORRECTED VERSION
-# 
-# Author: [Your Name]
-# Date: September 2025
-# Description: Complete R pipeline for comparative subgenome analysis
-# Working Directory: D:\\Evolution of A and C Subgenomes in Brassica napus Using DarTseq SNPs
 # ===============================================================================
 
 # Set working directory
